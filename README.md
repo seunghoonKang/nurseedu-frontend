@@ -7,7 +7,8 @@
 6. [기타](#6-기타)
 
 ## 1. 프로젝트 개요
-![nursedeu-highlight](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/1ddf3646-77fc-48f4-aa44-e1359ff8ad66)
+![nursedeu-highlight](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/6e05d605-a0a5-441d-9a79-faba82b4be3c)
+
 
 본 프로젝트는 널스에듀의 온라인 강의 수강을 위해 개발되었습니다.백오피스로 업로드한 동영상을 수강신청, 결제를 통해 수강할 수 있는 환경을 제공합니다.
 * 외부 문제로 구현 사이트 기능 사용에 제한이 있습니다. 양해부탁드립니다.
@@ -22,7 +23,10 @@
 
 |   회원가입    |   로그인,로그아웃     |  
 | :-------------------------: |  :-------------------------: | 
-|![nurseedu_signIn](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/8fc6d306-6317-4da3-9db4-4a859339cf06)|![nurseedu_login_logout](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/161069d1-becb-498a-a58b-2cd4075e2760) | 
+|![nurseedu_signIn](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/c592c95a-ddc3-48fd-873a-57e8188be0fd)|![nurseedu_login_logout](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/e292b00a-1638-4da5-ba93-df7e03ac609e) | 
+
+
+
 
 2. **메인페이지**
     - 전체 강의 목록 조회
@@ -30,7 +34,12 @@
 
 |  메인 카테고리, 검색    |  동시 접속 제한 |
 | :-------------------------: |  :-------------------------: | 
-|![nurseedu_search_category](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/5ded8efb-082e-434a-9c02-ede9a385f80e)| ![nurseedu_duplicate_access](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/f374d316-7d96-4473-9abe-64be47da0dc1) |
+|![nurseedu_search_category](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/9b7c8566-d422-4f17-bff4-303ce8c3a647)| ![nurseedu_duplicate_access](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/57fadc00-17db-4bab-af97-7bea8960b959)|
+
+
+
+
+
 
 3. **강의 상세 페이지**
     - 강의 소개, 강의 목록 토글 형식 조회
@@ -40,11 +49,18 @@
 
 | 상세페이지 (탭 전환, 탭 유지) |  상세페이지 (강의 구매전) |
 | :-------------------------: |  :-------------------------: |
-|![nurseedu_detailpage_maintain_tap](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/62dba8ce-50fe-49bf-bf6d-7e683aa66b5a)| ![nurseedu_detailpate_before_buy_lecture](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/e3c4fed1-9def-4816-8a02-135a9fbcc10b) | 
+|![nurseedu_detailpage_maintain_tap](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/efcf0e5d-312b-494a-9e4c-87e67c3526d7)| ![nurseedu_detailpage_before_buy_lecture](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/15ccaaf3-f8c3-4697-b240-c2661d75fe82) | 
+
+
+
+
+
+
+
 
 | 상세페이지 (구매 - 결제) |  상세페이지 (강의 구매후) |
 | :-------------------------: |  :-------------------------: |
-|![nurseedu_from_detail_to_mypage](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/4ef7d760-6fc2-462f-bf0f-6ea4dde4da51)| ![nurseedu_detailpage_after_buy_lecture](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/f51156c0-7fa3-4b45-9fc6-db25377627e5) | 
+|![nurseedu_from_detail_to_mypage](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/4486bbee-d1d2-4797-a332-6e3e6d647be7)| ![nurseedu_detailpage_after_buy_lecture](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/eb2eb317-97ef-4c60-ac92-199405dbea78) | 
 
 4. **수강 신청 & 결제 페이지**
     - 상황에 맞는 API 호출로 마이페이지 UI 구현  
@@ -65,7 +81,9 @@
 
 | 수강신청 - 결제 |  강의  |
 | :-------------------------: |  :-------------------------: |
-|![nurseedu_from_apply_lecture_to_buy_lecture](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/a472b28b-2be0-48fa-adf7-e50ff6014708)| ![nurseedu_video_check_10sec](https://github.com/DevCamp-TeamSparta/nurseedu-frontend/assets/59612529/cff71b0c-a34f-4534-8c44-a43ed2482d33) | 
+|![nurseedu_from_apply_lecture_to_buy_lecture](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/393f97ac-fb3b-4b34-b646-a5a2decfa84b)| ![nurseedu_video_check_10sec](https://github.com/seunghoonKang/nurseedu-frontend/assets/59612529/b5470409-f122-4004-a770-67e31432eed3) | 
+
+
 
 
 ## 3. 기술 스택  
@@ -112,16 +130,6 @@ $ yarn install && yarn run dev
 ```
 
 ## 5. 핵심 기능 설명
-
-<details>
-<summary><strong>🎥 비디오 커스텀</strong></summary>
-    
-<div markdown="1">
-    
-    
-
-</div>
-</details>
 
 <details>
 <summary><strong>✅ 워터마크 위치 지정</strong></summary>
